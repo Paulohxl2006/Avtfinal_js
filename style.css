@@ -1,0 +1,22 @@
+#foto:hover img{
+    transform: scale(1.15);
+}
+.carousel-caption h3 {
+ color: black;
+}
+.social-icons  a {
+    color: aliceblue;
+
+}
+.navbar-nav img{
+
+    max-width: 40%;
+    max-height: 40%;
+}
+.navbar-nav button{
+background-color: none;
+border: none;
+max-width: 40%;
+max-height: 80%;
+color: none;
+}
